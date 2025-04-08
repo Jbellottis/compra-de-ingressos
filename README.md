@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Jbellottis/compra-de-ingressos/blob/main/assets/Captura%20de%20tela%202025-04-08%20192110.png)
 
-## Hospedagem do projeto no [Vercel](https://projeto-numero-secreto-gules.vercel.app/).
+## Hospedagem do projeto no [Vercel](https://compra-de-ingressos-five.vercel.app/).
 
 ## Ferramentas utilizadas:
 
