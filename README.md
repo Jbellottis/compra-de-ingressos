@@ -1,4 +1,4 @@
-# Olá, Bem vindo ao meu projeto do Número Secreto.
+# Olá, Bem vindo ao meu projeto de Compra de Ingressos.
 
 ![image](https://github.com/Jbellottis/compra-de-ingressos/blob/main/assets/Captura%20de%20tela%202025-04-08%20192110.png)
 
